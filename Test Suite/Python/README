@@ -1,0 +1,9 @@
+This python client allows testing of the backend for a specific route.
+
+Contents: 
+    client.py : The client script
+    101points.txt : Street name and Data Points for a route on I-101
+
+Usage:
+    python client.py 101points.txt
+    
